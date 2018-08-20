@@ -1,0 +1,8 @@
+## Development Experience
+I languages I have the most experience with are C#, SQL, and JavaScript. I know a few Javsscript frameworks such as: JQuery, Knockout, and am familiar with Angular. I have worked with other languages such as Java. I have enjoyed working in the .Net Framework. The continous updates can sometimes be hard to keep up with however, I seem to find something interesting and useful in every new version. I like working in the front-end as that is an area I want to be good at. I am not great at it yet, but I do enjoy the challenge.
+
+## Git Commands
+I do not have a lot of favorite git commands. I do like interactive rebase for squashing 'git -rebase -i HEAD~5'. I have not had to use too many unique git commands in the past. I really like the Git Extensions plugin for resetting files and staging them. It has made source control much easier for me and saved me a lot of time when first learning how to use js compilers.
+
+## Continuing Education 
+I learn new things by doing for the most part. I can watch someone do something, but actually doing it myself is so much better for my learning experience. If something is bothering me or causing me to struggle, I like to have someone walk me through the process and then have me try to replicate it back and also be able to articulate why the process is that way. I currently am not working on any interesting technology projects. Just projects around the new home :)
